@@ -1,6 +1,11 @@
 import Image from "next/image";
 import Hero from "./components/Hero";
 import Newest from "./components/Newest";
+import newest from "./data/ImagesData.json"
+
+interface Props{
+  data: any;
+}
 
 export default function Home() {
   return (

@@ -1,0 +1,24 @@
+{
+    "newest": [
+        {
+            "src": "public/ProductFour/photo1.jpg",
+            "al":  "image1",
+            "name": "Nike Windrunner"
+        },
+        {
+            "src": "public/ProductThree/photo1.jpg",
+            "al":  "image1",
+            "name": "Nike Air Forece 1'07"
+        },
+        {
+            "src": "public/ProductTwo/photo1.png",
+            "al":  "image1",
+            "name": "Nike Sportsweer Flece"
+        },
+        {
+            "src": "public/ProductOne/photo1.jpeg",
+            "al":  "image1",
+            "name": "Nike Vapor Max 2023"
+        }
+    ]
+}
